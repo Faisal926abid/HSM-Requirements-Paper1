@@ -1,0 +1,30 @@
+[
+  {
+    "filename": "conflict_analysis.csv",
+    "sha256": "7836377ee10bddf3ccd394bc6c37ec25d0e33e28d23f5d1d975e95b48e306e8c"
+  },
+  {
+    "filename": "consolidated_requirements.csv",
+    "sha256": "d468cdb0081e55a11778a42b4ac268106175e6abcd4a66692272f554add8cc10"
+  },
+  {
+    "filename": "screening_decisions.csv",
+    "sha256": "3ca255501f137a412a6d18429ad8bf52bf776a3524948289110fe7b2027eafbe"
+  },
+  {
+    "filename": "search_log.csv",
+    "sha256": "f977e03071503db3aab05882bfb80b7cc251ae484c13aefb0e553f21adcee706"
+  },
+  {
+    "filename": "search_queries.csv",
+    "sha256": "7159dc4c1dcaa23b8e07d66a286a1a5adb4168c53756a46160fdbea5446962ac"
+  },
+  {
+    "filename": "selected_170_publications.csv",
+    "sha256": "bc80e00b4178887524b06b59380a1fe5e0a533ce25056f3cf9b89246ab48fe94"
+  },
+  {
+    "filename": "verification_criteria.csv",
+    "sha256": "211d168567a5b152b0ad34b29a6296fca6c5fca7c9e3d25170abeaf7970666f8"
+  }
+]

@@ -1,0 +1,171 @@
+﻿No.,Record_ID,Paper Title,DOI
+1,R01255,Exploring the effect of driver drowsiness on takeover performance during automated driving: An updated literature review,10.1016/j.aap.2025.108023
+2,R01096,The Mind-Wandering Phenomenon While Driving: A Systematic Review,10.3390/info16080681
+3,R02203,Evaluating the impacts of driver's pre-warning cognitive state on takeover performance under conditional automation,10.1016/j.trf.2021.10.004
+4,R00548,In-depth analysis of crash contributing factors and potential ADAS interventions among at-risk drivers using the SHRP 2 naturalistic driving study,10.1080/15389588.2021.1979529
+5,R02887,Near peripheral motion contrast threshold predicts older drivers' simulator performance,10.1016/j.aap.2012.03.035
+6,R00535,The influence of alcohol and automation on drivers’ visual behavior during test track driving,10.1016/j.trf.2023.04.008
+7,R02941,The influence of differences in the functioning of the neurocognitive attentional networks on drivers' performance,10.1016/j.aap.2012.09.032
+8,R00322,Analysis of Driver Workload on Risk Perception in Non-Safety-Critical Situations with Partial Automation,10.1109/cogsima64436.2025.11079506
+9,R00375,Intelligent driver monitoring systems: a survey of drowsiness detection technologies for road safety,10.1007/s10462-026-11505-w
+10,R00466,"Cross-modal cognitive workload estimation in driving simulation: CCI–pupil coherence, vestibular mediation, and a multimodal workload index across five washout algorithm conditions",10.1177/09544070261462281
+11,R00833,Evaluating the impacts of situational awareness and mental stress on takeover performance under conditional automation,10.1016/j.trf.2021.10.002
+12,R01107,"Rubbernecking at a roadside accident: An exploratory, simulated eye-tracking study of young adult drivers in Abu Dhabi",10.1016/j.sftr.2026.102093
+13,R01252,Assessing the Impact of Demographic and Occupational Related Predictors on Risky Driving Behaviour Among Express Bus Drivers in Malaysia,10.17576/jkukm-2026-38(2)-19
+14,R01286,Driving-related factors affecting mind-wandering behind the wheel: a systematic review,10.1080/01441647.2025.2525284
+15,R01395,"Why do ‘so’ much behind the wheel? How obsessive-compulsive symptoms, mindfulness, and anxiety influence distracted driving behaviours",10.1016/j.trf.2025.03.019
+16,R01596,Heart rate variability as an indicator of fatigue: A structural equation model approach,10.1016/j.trf.2024.04.015
+17,R02196,"I think I'm sleepy, therefore I am – Awareness of sleepiness while driving: A systematic review",10.1016/j.smrv.2021.101533
+18,R02443,An integrative review on teen distracted driving for model program development,10.3389/fpubh.2019.00111
+19,R00006,Evaluating the risk factors related to alcohol-impaired driving using the SHRP 2 naturalistic driving study,10.1080/15389588.2026.2685781
+20,R00282,Gaze entropy metrics for mental workload estimation are heterogenous during hands-off level 2 automation,10.1016/j.aap.2024.107560
+21,R00333,Environmental and contextual predictors of driver drowsiness and distraction from a naturalistic driving study on Indian National Highway,10.1080/15389588.2026.2711866
+22,R01346,Which factors compromise safety on mountainous roads: A systematic review,10.1016/j.jtte.2024.09.013
+23,R01914,Investigating the relation between instantaneous driving decisions and safety critical events in naturalistic driving environment,10.1016/j.aap.2021.106086
+24,R02267,Safety critical event prediction through unified analysis of driver and vehicle volatilities: Application of deep learning methods,10.1016/j.aap.2020.105949
+25,R02277,Coupling neuroscience and driving simulation: A systematic review of studies on crash-risk behaviors in young drivers,10.1080/15389588.2020.1847283
+26,R02403,Linking mind wandering tendency to risky driving in young male drivers,10.1016/j.aap.2017.11.019
+27,R02543,Modelling the effects of stress on gap-acceptance decisions combining data from driving simulator and physiological sensors,10.1016/j.trf.2018.09.019
+28,R07078,All-inclusive TORs: Cross-Cultural and Age-Sensitive Design for Take-Over Requests in Level 3 Cars,10.1145/3706598.3713451
+29,R00390,Designing an advanced early warning system to detect drivers’ distraction and drowsiness – A pilot study,10.1186/s12544-026-00780-x
+30,R01011,Profiling crash-associated factors and injury risk patterns among lost-in-thought (daydreaming) drivers: a combined cluster-sequence analysis approach,10.1016/j.aap.2025.108315
+31,R01522,Texting While Driving: A Literature Review on Driving Simulator Studies,10.3390/ijerph20054354
+32,R02125,Assessing the relationship between self-reported driving behaviors and driver risk using a naturalistic driving study,10.1016/j.aap.2019.03.009
+33,R02154,Sensitivity and specificity of the driver sleepiness detection methods using physiological signals: A systematic review,10.1016/j.aap.2020.105900
+34,R02257,User preferences and design recommendations for voluntary smartphone applications to prevent distracted driving,10.1016/j.trf.2019.04.018
+35,R02304,Safety of Raised Pavement Markers in Freeway Tunnels Based on Driving Behavior,10.1016/j.aap.2020.105708
+36,R02502,Road traffic injuries and fatalities among drivers distracted by mobile devices,10.4103/jets.jets_24_18
+37,R02881,Identifying periods of drowsy driving using EEG,No DOI in master record
+38,R03382,Visual attention and driving behaviors among community-living older persons,10.1093/gerona/58.9.m832
+39,R00017,Smart Steering Wheel Prototype for In-Vehicle Vital Sign Monitoring,10.3390/s26020477
+40,R00176,A systematic review of studies investigating the impact of sleep deprivation on drivers’ physiology and driving performance,10.1016/j.trf.2024.12.001
+41,R00311,Driving anger reduces the evasive response likelihood in near-crash events: Insights from SHRP 2 Naturalistic Driving Study,10.1016/j.jsr.2026.08.015
+42,R00524,Crash avoidance and driver assistance technologies – Are they used?,10.1016/j.trf.2017.11.015
+43,R00680,JLR heart: Employing wearable technology in non-intrusive driver state monitoring. Preliminary study,10.1109/ivs.2016.7535364
+44,R01036,A virtual reality-based investigation of driving anxiety in young drivers,10.1016/j.trf.2026.103554
+45,R01266,Drowsiness Detection in Drivers: A Systematic Review of Deep Learning-Based Models,10.3390/app15169018
+46,R01343,How does attention deficit/hyperactivity disorder affect driving behavior components? Baseline findings from Persian traffic cohort,10.1016/j.cjtee.2024.09.008
+47,R01382,Driving performance in new mothers: The mediating role of persistent fatigue,10.1016/j.trf.2025.01.023
+48,R01432,An Automated Efficient and Robust Scheme in Payment Protocol Using the Internet of Things,10.1109/iconstem56934.2023.10142797
+49,R01437,Bright light alone or combined with caffeine improves sleepiness in chronically sleep-restricted young drivers,10.1016/j.sleep.2022.03.013
+50,R01945,Fatigue driving detection method for low-voltage and hypoxia plateau area: A physiological characteristic analysis approach,10.1016/j.ijtst.2020.01.002
+51,R02047,Factors affecting the severity of rear-end conflicts: A driving simulator study,10.1109/ictis.2019.8883598
+52,R02135,Driving simulator experiments to study drowsiness: A systematic review,10.1080/15389588.2019.1706088
+53,R02207,"Associations between high caffeine consumption, driving safety indicators, sleep and health behaviours in truck drivers",10.1016/j.ssci.2020.104664
+54,R02260,"Drivers' Responses to Lead Vehicles: Thresholds for Triggering an Emergency Response, Age Differences, Crash Risks, and Influence of Secondary Task Engagement",10.4271/2021-01-0898
+55,R02295,Initial Testing of a Web-Based Intervention to Reduce Adolescent Driver Inattention: A Randomized Controlled Trial,10.1016/j.jen.2020.07.012
+56,R02567,Multivariate differences in driver workload: Test track versus on-road driving,10.1007/978-3-319-60441-1_89
+57,R02673,Using naturalistic driving study data to investigate the impact of driver distraction on driver's brake reaction time in freeway rear-end events in car-following situation,10.1016/j.jsr.2017.10.012
+58,R02859,"Age, cognitive load, and multimodal effects on driver response to directional warning",10.1016/j.apergo.2019.01.002
+59,R03181,Warn me now or inform me later: Drivers' acceptance of real-time and post-drive distraction mitigation systems,10.1016/j.ijhcs.2012.08.002
+60,R03195,Individual differences in driver inattention: The attention-related driving errors scale,10.1080/15389580903497139
+61,R03277,Assessing individual differences in driving inattention: Adaptation and validation of the Attention-Related Driving Errors Scale to Spain,10.1016/j.trf.2013.09.001
+62,R03290,Simulated lane departure warning system reduces the width of lane that drivers use,10.4399/97888548416594
+63,R03377,Indicators of Sleepiness in an ambulatory EEG study of night driving,10.1109/iembs.2006.259614
+64,R03583,Visual attention and self-regulation of driving among older adults,10.1017/s104161020700539x
+65,R00124,Analysis Of The Relation Between Vehicle And Physiological Data,10.1016/j.trpro.2025.10.048
+66,R00243,"Effect of Gender, Cognitive Distraction, and Environmental Conditions on Young Drivers’ Behavior: A Study Using Physiological Sensors and a Driving Simulator",10.1109/access.2026.3731416
+67,R00388,Systematic review of distinct modalities and artificial intelligence for distracted driving detection,10.1016/j.trip.2026.102167
+68,R00411,Truck Driver Safety: Factors Influencing Risky Behaviors on the Road—A Systematic Review,10.3390/app15179662
+69,R00460,"Next-Generation Driver Monitoring Systems: A Review of Multimodal Detection of Distraction, Drowsiness, and Sudden Medical Conditions",10.19139/soic-2310-5070-3145
+70,R00758,Physiological-based Driver Monitoring Systems: A Scoping Review,10.28991/cej-2022-08-12-020
+71,R00882,Design of an experimental protocol to examine medication non-adherence among young drivers diagnosed with ADHD: A driving simulator study,10.1016/j.conctc.2018.07.007
+72,R01002,"Impact of temporal, spatial, and roadway factors on driver overrides in Level 2 automation: A bivariate binary probit model analysis",10.1016/j.trf.2025.103356
+73,R01008,The Broader Impact of Mass Shootings on Traffic Fatalities,10.1001/jamapsychiatry.2026.1912
+74,R01288,Drivers’ Psycho-Physiology Characteristics and Workload Identification in Prairie Highway Work Zones,10.1109/access.2026.3675177
+75,R01389,Differences in traffic safety behaviours between male and female drivers across road categories in a developing country: A case study,10.1371/journal.pone.0355724
+76,R01577,The road safety and risky behavior analysis of delivery vehicle drivers in China,10.1016/j.aap.2023.107013
+77,R01615,Association between Abnormal Sleep Duration and Sleepiness and Road Traffic Crashes in Urban Taxi Drivers,10.13189/ujph.2023.110404
+78,R01711,Negative mood mind wandering and unsafe driving in young male drivers,10.1016/j.aap.2022.106867
+79,R01858,From self-reports to observations: Unraveling digital billboard influence on drivers,10.1016/j.trf.2024.04.010
+80,R01859,How many crashes does cellphone use contribute to? Population attributable risk of cellphone use while driving,10.1016/j.jsr.2022.07.005
+81,R01917,Overall performance impairment and crash risk due to distracted driving: A comprehensive analysis using structural equation modelling,10.1016/j.trf.2020.08.018
+82,R02000,Out-of-the-loop crash prediction: The automation expectation mismatch (AEM) algorithm,10.1049/iet-its.2018.5555
+83,R02042,"Distraction in the driving simulator: An event-related potential (ERP) study with young, middle-aged, and older drivers",10.3390/safety7020036
+84,R02197,Predicting performance and safety based on driver fatigue,10.1016/j.aap.2018.03.004
+85,R02214,Impact of limited rest areas on truck driver crashes in Saskatchewan: A mixed-methods approach,10.1186/s12889-020-09120-7
+86,R02314,Optimal imaging of multi-channel EEG features based on a novel clustering technique for driver fatigue detection,10.1016/j.bspc.2020.102103
+87,R02352,Red light camera interventions for reducing traffic violations and traffic crashes: A systematic review,10.1002/cl2.1091
+88,R02377,Validation of the attention-related driving errors scale in novice adolescent drivers,10.1016/j.aap.2021.106249
+89,R02499,Effects on drivers' behavior of forward collision warning system alerts,10.1177/1541931213601381
+90,R02596,"ADHD, depression, and motor vehicle crashes: A prospective cohort study of continuously-monitored, real-world driving",10.1016/j.jpsychires.2018.02.026
+91,R02607,Does Implementation of Biomathematical Models Mitigate Fatigue and Fatigue-related Risks in Emergency Medical Services Operations? A Systematic Review,10.1080/10903127.2017.1384875
+92,R02679,Do mindfulness interventions improve road safety? A systematic review,10.1016/j.aap.2018.11.013
+93,R02843,Reducing young drivers’ crash risk: Are we there yet? An ecological systems-based review of the last decade of research,10.1016/j.trf.2018.04.003
+94,R02984,Adolescent drivers' perceptions of the advantages and disadvantages of abstention from in-vehicle cell phone use,10.1016/j.aap.2010.03.015
+95,R03059,Designing unambiguous auditory crash warning systems,10.1177/1541931214581437
+96,R03158,Effectiveness of forward collision warnings for different driver attention states,10.1109/ivs.2012.6232232
+97,R03177,Visual vigilance in drivers with obstructive sleep apnea,10.1016/j.jpsychores.2009.03.015
+98,R03233,Buick Lucerne Drivers’ Experiences With Rear Parking Sensors,10.1080/15389588.2014.924624
+99,R03399,Development of a test battery to identify older drivers at risk for self-reported adverse driving events,10.1111/j.1532-5415.1998.tb01071.x
+100,R03406,Temporal separation and self-rating of alertness as indicators of driver fatigue in commercial motor vehicle operators,10.1518/hfes.46.1.154.30393
+101,R03511,Simulated car crashes and the useful field of view,No DOI in master record
+102,R03553,Isolating risk factors for crash frequency among older drivers,No DOI in master record
+103,R03666,Factors affecting driver injury severity in fatigue and drowsiness accidents: a data mining framework,10.5249/jivr.v14i1.1679
+104,R05219,Effectiveness of Red-Light Running Countermeasures: A Systematic Review,10.1145/3342197.3344542
+105,R00045,Impact of land use on bus driver inattentiveness: Insight into crash risks,10.1080/15389588.2026.2638536
+106,R00228,It Matters Who Is behind the Wheel: Driver Monitoring Feature Analysis Using Explainable AI,10.1145/3744335.3758512
+107,R00305,Thermal imaging for the detection of driver impairment: evidence from a high-fidelity driving simulator study,10.1080/15389588.2026.2624006
+108,R00453,Drowsiness Classification in Young Drivers Based on Facial Near-Infrared Images Using a Convolutional Neural Network: A Pilot Study,10.3390/s25216755
+109,R00565,Physiological indicators of driver workload during car-following scenarios and takeovers in highly automated driving,10.1016/j.trf.2022.04.002
+110,R00668,Detecting driver fatigue using heart rate variability: A systematic review,10.1016/j.aap.2022.106830
+111,R00736,Transition in Different Critical Situations: How Non-Driving Related Tasks Affect Drivers' Physiological Response and Takeover Behavior After Partial Automation Silent Failures,10.1109/tits.2024.3438450
+112,R00748,Classification of Drivers’ Mental Workload Levels: Comparison of Machine Learning Methods Based on ECG and Infrared Thermal Signals,10.3390/s22197300
+113,R00813,How Driving Experience Affect Trust in Automation from Level 3 Automated Vehicles? An Experimental Analysis,10.1109/itsc45102.2020.9294247
+114,R00971,Differences in injury severities between elderly and non-elderly taxi driver at-fault crashes: Temporal instability and out-of-sample prediction,10.1016/j.aap.2024.107865
+115,R01054,Fatigue in taxi drivers and its relationship with traffic accident history and experiences: a cross-sectional study in the north of Iran,10.1186/s12889-024-18044-5
+116,R01072,Impact of free-choice non-driving related activities on driver fatigue and performance in the context of conditional automated driving,10.1016/j.trf.2025.05.033
+117,R01279,"Unsafe driving behaviors and crash history among adolescent drivers in Tuscany, Italy",10.1016/j.jsr.2026.07.001
+118,R01325,A Data Mining Approach to Understanding Racial Disparities in Midblock Pedestrian Fatal and Serious Injury Crashes,10.1061/9780784487020.003
+119,R01398,Prevalence and factors associated with road traffic crashes among truck drivers in Southeast Iran,10.1371/journal.pone.0320974
+120,R01412,An Adaptive FCW System Based on Driver Attention States,10.1109/aemcse65292.2025.11042821
+121,R01431,Influence of occupational risk factors for road traffic crashes among professional drivers: systematic review,10.1080/01441647.2022.2132314
+122,R01518,A randomized controlled pilot trial of brief online mindfulness training in young drivers,10.1016/j.aap.2023.107322
+123,R01573,EEG-Based Index for Timely Detecting User’s Drowsiness Occurrence in Automotive Applications,10.3389/fnhum.2022.866118
+124,R01735,Automatic identification method for driving risk status based on multi-sensor data,10.1007/s00779-021-01580-x
+125,R01776,Trial of Training to Reduce Driver Inattention in Teens with ADHD.,10.1056/nejmoa2204783
+126,R01939,Effect of Cannabidiol and ?9-Tetrahydrocannabinol on Driving Performance: A Randomized Clinical Trial,10.1001/jama.2020.21218
+127,R02146,"Prescription opioid use among drivers in British Columbia, 1997-2016",10.1136/injuryprev-2020-043989
+128,R02158,Fatigue and poor sleep are associated with driving risk among Korean occupational drivers,10.1016/j.jth.2019.100572
+129,R02166,A meta-analysis of the impacts of operating in-vehicle information systems on road safety,10.1016/j.iatssr.2019.01.003
+130,R02178,"Accurate and early detection of sleepiness, fatigue and stress levels in drivers through heart rate variability parameters: A systematic review",10.31083/j.rcm2203090
+131,R02343,Influence of bicyclist presence on driver performance during automated vehicle take-over requests,10.1016/j.trf.2019.06.007
+132,R02454,Driver Drowsiness Detection Based on Respiratory Signal Analysis,10.1109/access.2019.2924481
+133,R02618,Gaming to safety: Exploring feedback gamification for mitigating driver distraction,10.1177/1541931213601429
+134,R02629,Driver drowsiness detection based on non-intrusive metrics considering individual specifics,10.1016/j.aap.2015.09.002
+135,R02645,Deriving heart rate variability indices from cardiac monitoring—An indicator of driver sleepiness,10.1080/15389588.2018.1548766
+136,R02716,Were they in the loop during automated driving? Links between visual attention and crash potential,10.1136/injuryprev-2016-042155
+137,R02902,Mitigating heavy truck rear-end crashes with the use of rear-lighting countermeasures,10.4271/2010-01-2023
+138,R02969,Differences in off-road glances: Effects on young drivers' performance,10.1061/(asce)te.1943-5436.0000068
+139,R02985,Driving with a partially autonomous forward collision warning system: How do drivers react?,10.1177/0018720812439712
+140,R03167,Truck drivers' opinion on road safety in Tanzania--a questionnaire study,10.1080/15389588.2012.671982
+141,R03397,Visual attention problems as a predictor of vehicle crashes in older drivers,No DOI in master record
+142,R03404,"A prospective, population-based study of the role of visual impairment in motor vehicle crashes among older drivers: The SEE study",10.1167/iovs.06-0474
+143,R03431,Useful Field of View and Other Neurocognitive Indicators of Crash Risk in Older Adults,10.1023/a:1026206927686
+144,R03456,Time-to-collision judgments under realistic driving conditions,10.1518/001872006777724499
+145,R03503,"Excessive daytime sleepiness, crashes and driving capability",10.4414/sanp.2003.01411
+146,R03550,Self-Regulation of Driving in the Context of Impaired Visual Attention: Are There Gender Differences?,10.1037/0090-5550.52.4.421
+147,R03555,Teen driver crash risk and associations with smoking and drowsy driving,10.1016/j.aap.2007.10.001
+148,R03591,Subjective and predicted sleepiness while driving in young adults,10.1016/j.aap.2005.06.008
+149,R03677,[Design and validation of a questionnaire exploring risky-driving patterns in young drivers],10.1590/s1135-57272012000100007
+150,R03732,Physiological Measures of Risk Perception in Highly Automated Driving,10.1109/tits.2022.3146793
+151,R03909,Smartwatch-Based Driver Vigilance Indicator With Kernel-Fuzzy-C-Means-Wavelet Method,10.1109/jsen.2015.2475638
+152,R03980,Dynamic driving task fallback for an automated driving system whose ability to monitor the driving environment has been compromised,10.1109/ivs.2017.7995973
+153,R04306,Advanced Sensor Analytics and Extreme Value Modeling: Dichotomizing Day–Night Variability in Rear-End Collisions on Expressways,10.1109/tits.2025.3631922
+154,R04778,Towards a Reliable Ground Truth for Drowsiness: A Complexity Analysis on the Example of Driver Fatigue,10.1145/3394980
+155,R00038,Improving Takeover Requests in Automated Vehicles: The Role of Dynamic Alerts and Cognitive State,10.1109/tiv.2024.3509315
+156,R00071,Objective evaluation of 35 heart rate variability parameters for predicting takeover performance in conditionally automated driving,10.1016/j.ergon.2025.103699
+157,R00049,A gaze-based driver distraction countermeasure: Comparing effects of multimodal alerts on driver's behavior and visual attention,10.1016/j.ijhcs.2024.103366
+158,R00057,Effects of cabin thermal conditions and road type on driver workload and performance: A driving simulator study,10.1080/15389588.2026.2682437
+159,R00064,Practical aspects of measuring camera-based indicators of alcohol intoxication in manual and automated driving,10.1049/itr2.12520
+160,R00084,Early Drowsiness Detection via Second-Order Derivative Analysis of Heart Rate Variability: A Non-Contact ECG Approach with Machine Learning,10.3390/s26041348
+161,R00110,The impact of mind wandering on physiological measures in delegated driving,10.1186/s12544-025-00741-w
+162,R00157,Driver readiness prediction: Bridging cognitive distraction monitoring and in-vehicle decision support systems,10.1016/j.dss.2025.114559
+163,R00244,Investigating the Mitigation of Stress in Autonomous and Non-autonomous Vehicles Using LLM Feedback,10.1007/978-3-031-92692-1_7
+164,R00158,Multimodal prediction of situation awareness during automated driving: a gaze and EEG-based approach,10.1080/00140139.2025.2571792
+165,R00022,On-Road Evaluation of an Unobtrusive In-Vehicle Pressure-Based Driver Respiration Monitoring System,10.3390/s25092739
+166,R00068,"Impact of multi-dimensional cognitive demands on takeover performance, physiological and eye-tracking measures in conditionally automated vehicles",10.1016/j.trf.2025.06.011
+167,R00114,Classifying experienced male drivers’ mental workload on freeway ramps based on heart rate and speed measurements: A real-vehicle experiment,10.1016/j.aap.2026.108415
+168,R00054,Driver's Mental Workload Monitoring by Unobtrusive Textile Electrodes on the Wheel,10.1109/metroautomotive69354.2026.11644659
+169,R00036,The effectiveness of driver monitoring systems in mitigating visual distraction depends on secondary task complexity and experience − A driving simulator study,10.1016/j.trf.2024.12.008
+170,R00091,Driver Attention Monitoring and Vehicle Sound Interaction: Experimental Evaluation,10.1109/metroautomotive69354.2026.11644633

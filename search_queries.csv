@@ -1,0 +1,124 @@
+﻿Database,Search ID,Exact / operational query
+Scopus,E1,"TITLE-ABS-KEY(
+ (""driver monitoring"" OR ""driver monitoring system*"" OR
+  ""driver state monitoring"" OR ""driver state detection"")
+ AND
+ (drows* OR fatigue* OR distract* OR inattention OR attention OR
+  alertness OR impairment OR workload OR ""visual attention"")
+ AND
+ (safety OR risk* OR warning* OR intervention* OR mitigat* OR
+  threshold* OR validat* OR evaluat* OR robustness OR limitation*)
+)"
+Scopus,E2-v0,"TITLE-ABS-KEY(
+ (driver* OR driving)
+ AND
+ (drows* OR fatigue* OR distract* OR inattention OR attention OR
+  alertness OR impairment OR workload OR ""visual attention"" OR
+  ""eyes off road"" OR ""off-road glance*"")
+ AND
+ (""crash risk"" OR crash* OR ""near-crash*"" OR safety OR risk* OR
+  threshold* OR warning* OR intervention* OR mitigat*)
+)"
+Scopus,E2-v1,"TITLE-ABS-KEY(
+ (driver* OR driving)
+ AND
+ (drows* OR fatigue* OR distract* OR inattention OR
+  ""visual attention"" OR ""eyes off road"" OR ""off-road glance*"" OR
+  ""glance duration"")
+ AND
+ (""crash risk"" OR ""crash involvement"" OR crash* OR ""near-crash*"" OR
+  ""safety risk"" OR ""collision risk"")
+)"
+PubMed,E1,"(
+  ""driver monitoring""[Title/Abstract]
+  OR ""driver monitoring system""[Title/Abstract]
+  OR ""driver monitoring systems""[Title/Abstract]
+  OR ""driver state monitoring""[Title/Abstract]
+  OR ""driver state detection""[Title/Abstract]
+)
+AND
+(
+  drows*[Title/Abstract] OR fatigue*[Title/Abstract] OR distract*[Title/Abstract]
+  OR inattention[Title/Abstract] OR attention[Title/Abstract]
+  OR alertness[Title/Abstract] OR impairment[Title/Abstract]
+  OR workload[Title/Abstract] OR ""visual attention""[Title/Abstract]
+)
+AND
+(
+  safety[Title/Abstract] OR risk*[Title/Abstract] OR warning*[Title/Abstract]
+  OR intervention*[Title/Abstract] OR mitigat*[Title/Abstract]
+  OR threshold*[Title/Abstract] OR validat*[Title/Abstract]
+  OR evaluat*[Title/Abstract] OR robustness[Title/Abstract]
+  OR limitation*[Title/Abstract]
+)"
+PubMed,E2,"(
+  driver*[Title/Abstract] OR driving[Title/Abstract]
+)
+AND
+(
+  drows*[Title/Abstract] OR fatigue*[Title/Abstract] OR distract*[Title/Abstract]
+  OR inattention[Title/Abstract] OR ""visual attention""[Title/Abstract]
+  OR ""eyes off road""[Title/Abstract] OR ""off-road glance""[Title/Abstract]
+  OR ""off-road glances""[Title/Abstract] OR ""glance duration""[Title/Abstract]
+)
+AND
+(
+  ""crash risk""[Title/Abstract] OR ""crash involvement""[Title/Abstract]
+  OR crash*[Title/Abstract] OR ""near-crash""[Title/Abstract]
+  OR ""near-crashes""[Title/Abstract] OR ""safety risk""[Title/Abstract]
+  OR ""collision risk""[Title/Abstract]
+)"
+IEEE Xplore,E1,"(
+  ""All Metadata"":""driver monitoring""
+  OR ""All Metadata"":""driver monitoring system""
+  OR ""All Metadata"":""driver state monitoring""
+  OR ""All Metadata"":""driver state detection""
+)
+AND
+(
+  ""All Metadata"":drowsiness OR ""All Metadata"":fatigue
+  OR ""All Metadata"":distraction OR ""All Metadata"":inattention
+  OR ""All Metadata"":attention OR ""All Metadata"":alertness
+  OR ""All Metadata"":impairment OR ""All Metadata"":workload
+  OR ""All Metadata"":""visual attention""
+)
+AND
+(
+  ""All Metadata"":safety OR ""All Metadata"":risk OR ""All Metadata"":warning
+  OR ""All Metadata"":intervention OR ""All Metadata"":mitigation
+  OR ""All Metadata"":threshold OR ""All Metadata"":validation
+  OR ""All Metadata"":evaluation OR ""All Metadata"":robustness
+  OR ""All Metadata"":limitation
+)"
+IEEE Xplore,E2,"(
+  ""All Metadata"":driver OR ""All Metadata"":driving
+)
+AND
+(
+  ""All Metadata"":drowsiness OR ""All Metadata"":fatigue
+  OR ""All Metadata"":distraction OR ""All Metadata"":inattention
+  OR ""All Metadata"":""visual attention"" OR ""All Metadata"":""eyes off road""
+  OR ""All Metadata"":""off-road glance"" OR ""All Metadata"":""glance duration""
+)
+AND
+(
+  ""All Metadata"":""crash risk"" OR ""All Metadata"":""crash involvement""
+  OR ""All Metadata"":crash OR ""All Metadata"":""near-crash""
+  OR ""All Metadata"":""safety risk"" OR ""All Metadata"":""collision risk""
+)"
+ACM Digital Library,E1,"(""driver monitoring"" OR ""driver monitoring system"" OR
+ ""driver state monitoring"" OR ""driver state detection"")
+AND
+(drowsiness OR fatigue OR distraction OR inattention OR attention OR
+ alertness OR impairment OR workload OR ""visual attention"")
+AND
+(safety OR risk OR warning OR intervention OR mitigation OR
+ threshold OR validation OR evaluation OR robustness OR limitation)"
+ACM Digital Library,E2,"(driver OR driving)
+AND
+(drowsiness OR fatigue OR distraction OR inattention OR
+ ""visual attention"" OR ""eyes off road"" OR ""off-road glance"" OR
+ ""glance duration"")
+AND
+(""crash risk"" OR ""crash involvement"" OR crash OR ""near-crash"" OR
+ ""safety risk"" OR ""collision risk"")"
